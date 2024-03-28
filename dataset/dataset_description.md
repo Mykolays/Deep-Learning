@@ -14,5 +14,4 @@ Input variables (based on physicochemical tests):
 * 9 - pH
 * 10 - sulphates
 * 11 - alcohol
-Output variable (based on sensory data):
 * 12 - quality ('good' and 'bad' based on score >5 and <5)
